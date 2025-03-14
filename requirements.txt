@@ -1,0 +1,6 @@
+requests
+langchain
+langchain_community
+pypdf
+tiktoken
+python-dotenv
