@@ -4,3 +4,7 @@ langchain_community
 pypdf
 tiktoken
 python-dotenv
+Flask
+flask-cors
+requests
+openai
